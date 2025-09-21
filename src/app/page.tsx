@@ -280,7 +280,7 @@ Microsoft Word - ozcan_sezer.doc (dergipark.org.tr)`
                 transition={{ delay: 0.2, duration: 0.8 }}
                 className="text-lg sm:text-xl text-gray-600 mb-4 sm:mb-6 italic"
               >
-                "İyileşme bazen sadece biri dinlediğinde başlar."
+                &ldquo;İyileşme bazen sadece biri dinlediğinde başlar.&rdquo;
               </motion.p>
               <motion.p 
                 initial={{ opacity: 0, y: 20 }}
@@ -859,9 +859,9 @@ Microsoft Word - ozcan_sezer.doc (dergipark.org.tr)`
                 <div className="w-20 h-20 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 rounded-full flex items-center justify-center mx-auto mb-6 shadow-2xl">
                   <MessageCircle className="w-10 h-10 text-white" />
                 </div>
-                <h3 className="text-2xl font-bold text-white mb-4">Instagram'dan İletişim</h3>
+                <h3 className="text-2xl font-bold text-white mb-4">Instagram&apos;dan İletişim</h3>
                 <p className="text-indigo-100 mb-6">
-                  Randevu almak ve sorularınız için Instagram'dan bana ulaşabilirsiniz
+                  Randevu almak ve sorularınız için Instagram&apos;dan bana ulaşabilirsiniz
                 </p>
               </div>
               
@@ -883,7 +883,7 @@ Microsoft Word - ozcan_sezer.doc (dergipark.org.tr)`
                 className="inline-flex items-center justify-center w-full bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 text-white font-semibold py-4 px-8 rounded-lg hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
               >
                 <MessageCircle className="w-6 h-6 mr-3" />
-                Instagram'dan DM At
+                  Instagram&apos;dan DM At
               </a>
               
               <p className="text-indigo-200 text-sm mt-4">
@@ -913,7 +913,7 @@ Microsoft Word - ozcan_sezer.doc (dergipark.org.tr)`
           
           {/* Tooltip */}
           <div className="absolute bottom-full right-0 mb-2 px-3 py-2 bg-gray-900 text-white text-sm rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap">
-            Instagram'dan DM At
+                  Instagram&apos;dan DM At
             <div className="absolute top-full right-4 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900"></div>
           </div>
           
