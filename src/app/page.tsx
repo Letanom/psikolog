@@ -216,7 +216,7 @@ Microsoft Word - ozcan_sezer.doc (dergipark.org.tr)`
               </div>
               <div>
                 <h1 className="text-xl font-bold text-gray-900">Nora Ördekoğlu</h1>
-                <p className="text-sm text-gray-600">Uzman Psikolog</p>
+                <p className="text-sm text-gray-600">Psikolog</p>
               </div>
             </motion.div>
 
@@ -350,7 +350,7 @@ Microsoft Word - ozcan_sezer.doc (dergipark.org.tr)`
                   </div>
                   <h3 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">Nora Ördekoğlu</h3>
                   <p className="text-sm sm:text-base text-gray-600">
-                    Uzman Psikolog
+                    Psikolog
                   </p>
                 </div>
               </div>
@@ -997,7 +997,7 @@ Microsoft Word - ozcan_sezer.doc (dergipark.org.tr)`
                 </div>
                 <h3 className="text-xl font-bold">Nora Ördekoğlu</h3>
               </div>
-              <p className="text-gray-400">Uzman Psikolog</p>
+              <p className="text-gray-400">Psikolog</p>
               <p className="text-gray-400">İstanbul / Beşiktaş</p>
             </div>
             <div>
